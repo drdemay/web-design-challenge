@@ -1,0 +1,56 @@
+.box {
+  flex-flow: row;
+  flex-flow: column;
+  padding: 10px;
+  margin-top: 50px;
+  background: white;
+}
+/* Set background page color */
+body {
+  background: #EDEDED;
+}
+
+/* Giving our navbar some padding and a background color */
+.navbar {
+  padding: 10px;
+  background:white;
+}
+
+.navbar-brand {
+  display: block; 
+  background: #0BADA6;
+  padding: 10px;
+  font-weight: 800;
+  color: white;
+}
+
+.navbar-light .navbar-brand {
+  color: white !important
+}
+
+/* Set headers */
+h1 {
+  margin-top: 20px;
+  color: #0BADA6;
+}
+h2 {
+  color: #0BADA6;
+}
+h3 {
+  margin-top: 20px;
+  color: #0BADA6;
+
+}
+.image_head {
+  font-size: 18px;
+}
+/* Set text attributes */
+p {
+  font-size: 12pt;
+  color: #888D97; 
+  line-height: 200%;
+}
+
+.black_text {
+  color: black;
+}
